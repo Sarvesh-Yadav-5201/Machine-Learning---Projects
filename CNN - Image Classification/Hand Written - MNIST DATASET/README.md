@@ -2,6 +2,8 @@
   <h3> Hand Written Digit Recognition using Convolutional Neural NetworK.
     
 __________________
+![Auto_encoder](Images/Test_result.jpg)
+    
 ## Objective
 > The goal of this project is to create neural networks that can recognize handwritten digits using the MNIST dataset.
     
