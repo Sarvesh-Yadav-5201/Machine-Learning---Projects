@@ -1,4 +1,4 @@
-# <b> <u> Machine Learning Projects </b></u>
+# <b> <u> Machine Learning IMAGE CLASSIFICATION Projects </b></u>
 _________
 ## <b>This folder contains machine learning projects:
    > Here are few projects examples: 
