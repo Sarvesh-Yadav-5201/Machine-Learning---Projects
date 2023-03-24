@@ -32,6 +32,8 @@ __________________
   >* ANN model achieved a training accuracy of 100% (Overfitting) but a validation accuracy of around 97%.
   >* Regularized ANN model achieved an accuracy of around 96%.
   >* CNN model achieved an accuracy of around 98%.
+
+
     
 ## HOW TO RUN:
 To run this code, follow these steps:
