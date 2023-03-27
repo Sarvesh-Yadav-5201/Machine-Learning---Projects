@@ -15,6 +15,14 @@
   * CNN Autoencoders 
   * Visualizing Saliency Maps
   * Summary/ Conclusion
+  
+### <b> MODELS USED:
+* Simple Unregularized CNN
+* Regularized CNN
+* CNN Autoencoder
+* Extracted Trained Encoder combined with Fully Connected Neural Network (FCNN)
+  
+The models were used to classify buildings as either "damaged" or "undamaged" based on post-hurricane aerial images. Evaluation metrics used included accuracy, precision, recall, and F1 score.
 
 # <b> RESULTS : 
 * CNN AUTOENCODERS : 
