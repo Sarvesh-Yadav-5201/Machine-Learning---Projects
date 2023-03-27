@@ -22,7 +22,7 @@
 * CNN Autoencoder
 * Extracted Trained Encoder combined with Fully Connected Neural Network (FCNN)
   
-The models were used to classify buildings as either "damaged" or "undamaged" based on post-hurricane aerial images. Evaluation metrics used included accuracy, precision, recall, and F1 score.
+The models were used to classify buildings as either "damaged" or "undamaged" based on post-hurricane aerial images. The final model, which combined an autoencoder with a FCNN, achieved an impressive accuracy of 96% on an imbalanced dataset.
 
 # <b> RESULTS : 
 * CNN AUTOENCODERS : 
