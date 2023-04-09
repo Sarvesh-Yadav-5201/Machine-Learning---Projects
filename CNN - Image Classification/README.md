@@ -39,5 +39,5 @@ You can install all these dependencies using pip.
   >* Install the required dependencies using pip.
   >* Follow the instructions in the README files for each project to set up the data and run the models.
   
-  # <b>Feel free to reach out to us if you have any questions or feedback.
+  # <b>Feel free to reach out if you have any questions or feedback.
 
